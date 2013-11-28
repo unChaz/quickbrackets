@@ -1,6 +1,13 @@
 QuickBrackets
 =============
 
+## TLDR
+
+````
+npm install
+node app
+````
+
 ##Overview
 
 BracketFactory reimagined, QuickBrckets is a 3 part web application 
